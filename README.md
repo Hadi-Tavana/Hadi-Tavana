@@ -3,6 +3,8 @@
 
 I am a current computer science student at Kabul University with a profound interest in technology and a dedication to solving complex problems.
 
+[![Hits](https://hits.sh/github.com/Hadi-Tavana.svg?style=for-the-badge&label=Profile%20Views&labelColor=161616)](https://hits.sh/github.com/Hadi-Tavana/)
+
 ## Objective
 
 My journey in IT and system administration has sparked a strong interest in cybersecurity, with a growing focus on cloud security. I am now eager to transition into this field, aiming to contribute to a security-focused cloud environment.
