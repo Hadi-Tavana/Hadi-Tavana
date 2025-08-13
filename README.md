@@ -10,8 +10,11 @@ My journey in IT and system administration has sparked a strong interest in cybe
 ## Skills
                                         
 | Windows Server administration (AD, DNS, DHCP, GPO)       
+
 | Networking (Routing and Switching) and Network Security (IPsec, Site-to-Site VPN, DMVPN)
+
 | Microsoft Azure fundamentals & Azure AD Concepts
+
 | Cybersecurity Fundamentals and SIEMs (Splunk)
 
 ## Tools & Platforms
@@ -43,4 +46,6 @@ My journey in IT and system administration has sparked a strong interest in cybe
 </div>
 
 ## Projects
-- Multisite AD Lab + Security Measures and Tools
+- Multisite AD Lab + Security Measures and Tools  --->  [![View on GitHub](https://img.shields.io/badge/GitHub-Multisite_AD_Lab-blue?logo=github)](https://github.com/Hadi-Tavana/Multisite-AD-Security-Lab)
+
+
